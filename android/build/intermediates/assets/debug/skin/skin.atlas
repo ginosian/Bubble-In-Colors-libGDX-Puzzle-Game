@@ -1,0 +1,60 @@
+skin.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ButtonPressed
+  rotate: false
+  xy: 2, 1378
+  size: 333, 219
+  orig: 333, 219
+  offset: 0, 0
+  index: -1
+ButtonUnpressed
+  rotate: true
+  xy: 2, 1599
+  size: 332, 220
+  orig: 332, 220
+  offset: 0, 0
+  index: -1
+FlatFrame
+  rotate: false
+  xy: 363, 2
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+Knob
+  rotate: false
+  xy: 489, 2
+  size: 5, 46
+  orig: 5, 46
+  offset: 0, 0
+  index: -1
+BubbleInColors
+  rotate: false
+  xy: 2, 2
+  size: 359, 1023
+  orig: 512, 1024
+  offset: 0, 1
+  index: -1
+ProgressBar
+  rotate: true
+  xy: 435, 2
+  size: 598, 52
+  orig: 598, 52
+  offset: 0, 0
+  index: -1
+ball
+  rotate: false
+  xy: 224, 1599
+  size: 186, 185
+  orig: 186, 185
+  offset: 0, 0
+  index: -1
+cell
+  rotate: false
+  xy: 2, 1027
+  size: 349, 349
+  orig: 349, 349
+  offset: 0, 0
+  index: -1

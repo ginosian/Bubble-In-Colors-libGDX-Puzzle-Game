@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="robovm-rt-1.8.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.robovm/robovm-rt/1.8.0/775a19411060ceae0f48c147bae694bf3379b247/robovm-rt-1.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.robovm/robovm-rt/1.8.0/6de539b7d3f3185b6fc1704ab86162381fd89b05/robovm-rt-1.8.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

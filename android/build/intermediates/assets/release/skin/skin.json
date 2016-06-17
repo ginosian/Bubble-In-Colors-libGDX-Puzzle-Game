@@ -1,0 +1,33 @@
+{
+  com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+  button: { down: ButtonPressed, up: ButtonUnpressed },
+  button_sound: { down: ButtonPressed, up: ButtonUnpressed, checked: ButtonPressed },
+ },
+
+  com.badlogic.gdx.graphics.Color: {
+  green: { a: 1, b: 0, g: 1, r: 0 },
+  white: { a: 1, b: 1, g: 1, r: 1 },
+  red: { a: 1, b: 0, g: 0, r: 1 },
+  black: { a: 1, b: 0, g: 0, r: 0 },
+  darkBrown: { a: 1, b: 0.137, g: 0.207, r: 0.333 },
+  lightBrown: { a: 1, b: 0.55, g: 0.7, r: 0.87 },
+  yellow: { a: 1, b: 0.59, g: 1, r: 1 },
+  gold: { a: 1, b: 0, g: 0.84, r: 1 },
+  blue: { a: 1, b: 0.87, g: 0.78, r: 0.435 },
+  gray: { r: 0.215, g: 0.243, b: 0.294, a: 1 },
+  chatUsername: { r: 0.984, g: 0.690, b: 0.231, a: 1 },
+  chatStatus: { r: 0.858, g: 0.772, b: 0.666, a: 1 },
+  chatSentMessageTime: { r: 0.658, g: 0.654, b: 0.654, a: 1 }
+},
+
+  com.badlogic.gdx.graphics.g2d.BitmapFont: {
+  default: { file: BubbleInColors.fnt }
+},
+
+  com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
+  default: { font: default, fontColor: white }
+},
+
+
+
+}

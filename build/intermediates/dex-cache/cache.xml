@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Java\PROJECT\Bubble Poke\BubblePoke\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6833f022c2199a63283d06598edb24a7ba7b8122">
+        <dex dex="E:\Java\PROJECT\Bubble Poke\BubblePoke\android\build\intermediates\pre-dexed\debug\core-1.0-1df2b78739a1a0bc0029b1652ed4cebc91bb1270.jar" />
+    </item>
+
+</items>
